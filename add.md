@@ -11,7 +11,7 @@ permalink: /add/
 * [Telegram-канал DH CLOUD](https://t.me/dhcloud)
 * [Telegram-канал об R и античности](https://t.me/rantiquity)
 * [Системный Блокъ](https://sysblok.ru/)
-* [Гуманитарии в цифре](https://t.me/DHRIsfu)
+* [Telegram-канал «Гуманитарии в цифре» (Институт цифровых гуманитарных исследований СФУ)](https://t.me/DHRIsfu)
 
 ## Другие social media-проекты преподавателей магистратуры
 
@@ -26,10 +26,10 @@ permalink: /add/
 ## Достойные упоминания ресурсы
 
 * [Паблик в VK с ежедневным напоминанием о дате по римскому календарю](https://vk.com/calendariumromanum)
-* [Литоисчисление (тг-канал цифровой лаборатории ИРЛИ РАН)](https://t.me/tozhe_nauka)
-* [провода+болота (тг-канал руководителя DH-направления ИТМО)](https://t.me/wiresandswamps)
-* [Глагольная группа (тг-канал лингвистического подкаста)](https://t.me/glagolichka)
-* [тг-канал ФГН НИУ ВШЭ](https://t.me/hum_hse)
+* [Литоисчисление (Telegram-канал цифровой лаборатории ИРЛИ РАН)](https://t.me/tozhe_nauka)
+* [провода+болота (Telegram-канал руководителя DH-направления ИТМО)](https://t.me/wiresandswamps)
+* [Глагольная группа (Telegram-канал лингвистического подкаста)](https://t.me/glagolichka)
+* [Telegram-канал ФГН НИУ ВШЭ](https://t.me/hum_hse)
 
 ## Обязательные ссылки
 
