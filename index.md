@@ -29,9 +29,9 @@ layout: home
 
 * Дополнительно: Emese Ilyefalvi The Theoretical, Methodological and Technical Issues of Digital Folklore Databases and Computational Folkloristics
 
-`2.` Anastasia Bonch-Osmolovskaya, Daniil Skorinkin [Text mining War and Peace: Automatic extraction of character traits from literary piece]()
+`2.` Anastasia Bonch-Osmolovskaya, Daniil Skorinkin [Text mining War and Peace: Automatic extraction of character traits from literary piece](https://www.hse.ru/data/2018/10/23/1142395458/Digital%20Scholarship%20in%20the%20Humanities.pdf)
 
-`3.` Ярхо Б. И. [Распределение речи в пятиактной трагедии: (К вопросу о классицизме и романтизме)]()
+`3.` Ярхо Б. И. [Распределение речи в пятиактной трагедии: (К вопросу о классицизме и романтизме)](https://cloud.mail.ru/public/U4UH/uCva1N1b6)
 
 `4.` Christof Schöch [Topic Modeling Genre: An Exploration of French Classical and Enlightenment Drama](https://www.digitalhumanities.org/dhq/vol/11/2/000291/000291.html)
 
