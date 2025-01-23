@@ -59,7 +59,7 @@ minima:
     - { platform: google_scholar, user_url: "https://scholar.google.ru/citations?user=EMcL0ioAAAAJ&hl=ru" }
     - { platform: flickr,         user_url: "https://www.flickr.com/photos/nevmenandr/albums/" }
     - { platform: devto,          user_url: "https://dev.to/nevmenandr" }
-    - { platform: youtube,        user_url: "https://www.youtube.com/@%D0%94%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%80%D0%B5%D1%87%D0%B8%D1%8F" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/@schonenrede/" }
     - { platform: telegram,       user_url: "https://t.me/schonenrede" }
     - { platform: twitter,        user_url: "https://twitter.com/nevmenandr" }
 
